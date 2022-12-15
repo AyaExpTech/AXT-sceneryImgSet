@@ -27,5 +27,6 @@ URL……[https://axtech.dev/license/](https://axtech.dev/license/)
 
 1. 一般に公開するAIなどのデータセットでの利用の場合、AI公開場所でのクレジット表記を必須とする。
 2. データセットにこの規定が適用される著作物が含まれるAIが出力した著作物について、綾急技研は著作権を主張しない。
+3. 個人の利用に限り、非商用利用および動画共有サイトの収益機能のみによる商用利用時のクレジットを不要とする。
 
-![AeTOS(Type-04) Author:AyaExpTech](https://user-images.githubusercontent.com/100068967/204968925-f8322b9b-55e0-43c0-97ff-ed01cf68d43b.png)
+![AeTOS(Type-05) Author:AyaExpTech](https://user-images.githubusercontent.com/100068967/207908653-1e823ccc-3d1a-4305-9461-6b12d065f5ee.png)
