@@ -18,7 +18,7 @@
 
 Author : 綾急技研
 
-Licensed by "AeTOS(Type-04)"  
+Licensed by "AeTOS(Type-05)"  
 URL……[https://axtech.dev/license/](https://axtech.dev/license/)
 
 ### 個別規定
