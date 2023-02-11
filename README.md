@@ -14,12 +14,11 @@
 
 - 2022-12-16 : 綾坂こと撮影の画像を 11 枚追加。
 
-## 規約
+## 利用規約
 
-Author : 綾急技研
-
-Licensed by "AeTOS(Type-05)"  
-URL……[https://axtech.dev/license/](https://axtech.dev/license/)
+Author : AyaExpTech  
+Licensed by "AeTOS for Seller"
+> https://axtech.dev/license/
 
 ### 個別規定
 
